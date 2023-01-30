@@ -1,2 +1,2 @@
-# inprimesoft
+# iNPrimeSoft
 Prueba 1
